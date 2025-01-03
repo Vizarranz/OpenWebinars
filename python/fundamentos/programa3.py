@@ -1,5 +1,6 @@
 var = """ Hola
-anni
-que l
-ocura""";
+este
+es un texto
+que ocupa varias
+líneas.""";
 print(var)
