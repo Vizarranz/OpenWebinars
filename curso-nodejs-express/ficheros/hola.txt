@@ -1,0 +1,1 @@
+Este fichero sirve para lectura en el módulo de lectura de ficheros de texto.
