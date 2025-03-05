@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Niño vueltereta",
+        "descripcion": "Niño con problemas",
+        "precio": 19.99,
+        "disponible": true,
+        "departamento": "Ropa"
+    },
+    {
+        "nombre": "Autismo selectivo",
+        "descripcion": "Zapatillas ligeras y transpirables, perfectas para correr o hacer ejercicio.",
+        "precio": 49.99,
+        "disponible": true,
+        "departamento": "Calzado"
+    },
+    {
+        "nombre": "Mochila de viaje",
+        "descripcion": "Mochila espaciosa con múltiples compartimentos y diseño ergonómico.",
+        "precio": 34.99,
+        "disponible": false,
+        "departamento": "Accesorios"
+    },
+    {
+        "nombre": "Reloj inteligente",
+        "descripcion": "Reloj con funciones de seguimiento de salud y notificaciones del teléfono.",
+        "precio": 199.99,
+        "disponible": true,
+        "departamento": "Electrónica"
+    },
+    {
+        "nombre": "Libro de cocina",
+        "descripcion": "Libro con recetas fáciles y deliciosas para todos los niveles de cocineros.",
+        "precio": 24.99,
+        "disponible": true,
+        "departamento": "Libros"
+    }
+]
